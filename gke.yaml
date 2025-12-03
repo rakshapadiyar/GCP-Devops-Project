@@ -35,5 +35,5 @@ spec:
     targetPort: 5000
   selector:
     app: "gcp"
-  type: "LoadBalancer"
+  type: "LoadBalancer" 
  
